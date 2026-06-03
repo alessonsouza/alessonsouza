@@ -13,6 +13,7 @@ Welcome to my profile!
 - My day-to-day is **TypeScript** with **React** and **Node/Bun**.
 - I speak **Portuguese** and **English**. Open to fullstack roles and freelance work.
 - I've been using **Claude** for almost a year.
+- I've also worked with **GitHub Copilot** and **Cursor**.
 
 ### Technologies
 
