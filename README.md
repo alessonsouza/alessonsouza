@@ -1,3 +1,9 @@
+<div align="right">
+
+🇧🇷 **Português** | [🇺🇸 English](https://github.com/alessonsouza/alessonsouza/blob/main/README.en.md)
+
+</div>
+
 ## Olá! Eu sou o Alesson Souza 👋
 
 Seja bem-vindo(a) ao meu perfil!
