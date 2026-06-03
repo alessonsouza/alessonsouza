@@ -4,14 +4,14 @@
 
 </div>
 
-## Hi! I'm Alesson Souza 👋
+## Hi! I'm Alesson Souza
 
 Welcome to my profile!
 
-- 🔭 I'm a **fullstack developer**, working from the database to the live interface.
-- 🚀 I build **SaaS products** - I take real problems and turn them into software people actually use.
-- 🧰 My day-to-day is **TypeScript** with **React** and **Node/Bun**.
-- 💬 I speak **Portuguese** and **English**. Open to fullstack roles and freelance work.
+- I'm a **fullstack developer**, working from the database to the live interface.
+- I build **SaaS products** - I take real problems and turn them into software people actually use.
+- My day-to-day is **TypeScript** with **React** and **Node/Bun**.
+- I speak **Portuguese** and **English**. Open to fullstack roles and freelance work.
 
 ### Technologies
 
