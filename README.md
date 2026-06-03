@@ -12,7 +12,7 @@ Welcome to my profile!
 - I build **SaaS products** - I take real problems and turn them into software people actually use.
 - My day-to-day is **TypeScript** with **React** and **Node/Bun**.
 - I speak **Portuguese** and **English**. Open to fullstack roles and freelance work.
-- I've been developing with **Claude** (AI-assisted coding) for almost a year.
+- I've been using **Claude** for almost a year.
 
 ### Technologies
 
