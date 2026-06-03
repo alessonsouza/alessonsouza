@@ -4,14 +4,14 @@
 
 </div>
 
-## Olá! Eu sou o Alesson Souza 👋
+## Olá! Eu sou o Alesson Souza
 
 Seja bem-vindo(a) ao meu perfil!
 
-- 🔭 Sou **desenvolvedor fullstack**, trabalho do banco de dados à interface no ar.
-- 🚀 Construo **produtos SaaS** - pego problemas reais e transformo em software que as pessoas usam.
-- 🧰 Meu dia a dia é em **TypeScript** com **React** e **Node/Bun**.
-- 💬 Falo **português** e **inglês**. Aberto a vagas fullstack e freelas.
+- Sou **desenvolvedor fullstack**, trabalho do banco de dados à interface no ar.
+- Construo **produtos SaaS** - pego problemas reais e transformo em software que as pessoas usam.
+- Meu dia a dia é em **TypeScript** com **React** e **Node/Bun**.
+- Falo **português** e **inglês**. Aberto a vagas fullstack e freelas.
 
 ### Tecnologias
 
