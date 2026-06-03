@@ -13,6 +13,7 @@ Seja bem-vindo(a) ao meu perfil!
 - Meu dia a dia é em **TypeScript** com **React** e **Node/Bun**.
 - Falo **português** e **inglês**. Aberto a vagas fullstack e freelas.
 - Uso o **Claude** há quase um ano.
+- Também já trabalhei com **GitHub Copilot** e **Cursor**.
 
 ### Tecnologias
 
