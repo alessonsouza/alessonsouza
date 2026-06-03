@@ -1,85 +1,102 @@
-# Alesson Souza
+## Olá! Eu sou o Alesson Souza 👋
 
-Fullstack developer from Santa Catarina, Brazil. I build web products end to end — from the Postgres schema to the deployed UI — mostly in TypeScript with React and Node/Bun. Most of my recent work is turning real problems into SaaS products people actually use.
+Seja bem-vindo(a) ao meu perfil!
 
-I work comfortably in **Portuguese and English** and I'm open to fullstack roles and freelance work.
+- 🔭 Sou **desenvolvedor fullstack**, trabalho do banco de dados à interface no ar.
+- 🚀 Construo **produtos SaaS** — pego problemas reais e transformo em software que as pessoas usam.
+- 🧰 Meu dia a dia é em **TypeScript** com **React** e **Node/Bun**.
+- 💬 Falo **português** e **inglês**. Aberto a vagas fullstack e freelas.
 
----
+### Tecnologias
 
-## What I'm building
+<div style="display: inline_block"><br>
+  <img align="center" alt="TypeScript" height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="React" height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Next.js" height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Node.js" height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Bun" height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg">
+  <img align="center" alt="Tailwind CSS" height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="PostgreSQL" height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Docker" height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Git" height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div><br><br>
 
-These are private repositories — happy to walk through the code or give a demo on request.
+<h3>Produtos que estou construindo</h3>
 
-### Planno
-An offline-first planning app: you keep working with no connection and changes sync in the background, with conflict handling and per-workspace roles. It's my own product.
-**Bun · React 19 · TanStack Router · Elysia · Drizzle ORM · PostgreSQL · Better Auth · PowerSync (offline SQLite)**
+Estes são repositórios privados — posso mostrar o código ou fazer uma demo sob demanda.
 
-<!-- TODO: print do Planno → docs/planno.png -->
-<!-- ![Planno](docs/planno.png) -->
+**Planno** — app de planejamento *offline-first*: você continua trabalhando sem conexão e as mudanças sincronizam em segundo plano, com resolução de conflitos e papéis por workspace. É um produto meu.
+Stack: Bun, React 19, TanStack Router, Elysia, Drizzle ORM, PostgreSQL, Better Auth, PowerSync.
 
-### Posta
-A SaaS for social media teams and agencies. It unifies what's usually scattered across Notion, ClickUp and WhatsApp: a team panel (kanban, calendar, briefings, files) and a separate client area for approvals — where the client only ever sees their own content.
-**Bun · TanStack Start · React 19 · Elysia + Eden Treaty (type-safe API) · Drizzle ORM · PostgreSQL**
-
-<!-- TODO: print do Posta → docs/posta.png -->
-<!-- ![Posta](docs/posta.png) -->
-
-### Hospeda
-A vacation-rental / booking platform: properties, amenities, availability and reservations, with an admin area.
-**React · TanStack Router · Drizzle ORM · PostgreSQL**
-
-<!-- TODO: print do Hospeda → docs/hospeda.png -->
-<!-- ![Hospeda](docs/hospeda.png) -->
-
----
-
-## Things you can open right now
-
-| Project | What it is | Links |
-|---|---|---|
-| **Tasks Manager** | Task app to create, organize and track work | [live](https://tasks-manager-artefact.ascorp.app) · [code](https://github.com/alessonsouza/tasks-manager-artefact) |
-| **Portal LEO Ômega** | Admin portal for a volunteer club | [live](https://portalomegapzo.ascorp.app) |
-| **LEO Ômega — quarterly report** | Animated single-page storytelling for a volunteer club | [live](https://report-lionistic-instruction-4.ascorp.app) · [code](https://github.com/alessonsouza/report-lionistic-instruction-4) |
-| **Mural LEO** | Collaborative photo & message wall | [live](https://muralomegapzo.ascorp.app) · [code](https://github.com/alessonsouza/mural-leo) |
-| **Passeios** | Trips & excursions site | [live](https://passeiosconfepzo.ascorp.app) · [code](https://github.com/alessonsouza/passeios-leo) |
-| **SOMA Arquitetura** | Site for an architecture studio | [live](https://somaarquitetura.ascorp.app) · [code](https://github.com/alessonsouza/soma-arquitetura) |
-| **Fisio Pélvica** | Landing for a physiotherapy practice | [live](https://fisiopelvica.ascorp.app) · [code](https://github.com/alessonsouza/fisio-pelvica) |
-| **Chronos** | Pomodoro timer for focus/break cycles | [code](https://github.com/alessonsouza/chronos-pomodoro) |
-
----
-
-## Tech I reach for
-
-**Languages:** TypeScript, JavaScript
-**Frontend:** React, Next.js, TanStack Start/Router, Tailwind CSS, shadcn/ui
-**Backend:** Node.js, Bun, Elysia, REST / type-safe APIs (Eden Treaty, tRPC)
-**Data:** PostgreSQL, Drizzle ORM
-**Tooling:** Docker, Vite, Biome/ESLint, Git, WSL2
-
----
-
-## Contato
-
-- LinkedIn — [alesson-souza](https://www.linkedin.com/in/alesson-souza)
-- Email — alessonhsouza@gmail.com
-
----
-
-<details>
-<summary><b>Em português</b></summary>
+<!-- TODO: print do Planno -> docs/planno.png -->
 
 <br>
 
-Sou desenvolvedor fullstack de Santa Catarina. Construo produtos web de ponta a ponta — do schema no Postgres até a interface no ar — principalmente em TypeScript com React e Node/Bun. Boa parte do que faço hoje é transformar problemas reais em produtos SaaS.
+**Posta** — SaaS para times e agências de social media. Une num só lugar o que normalmente fica espalhado entre Notion, ClickUp e WhatsApp: um painel da equipe (kanban, calendário, briefings) e uma área separada para o cliente aprovar conteúdos.
+Stack: Bun, TanStack Start, React 19, Elysia + Eden Treaty, Drizzle ORM, PostgreSQL.
 
-**O que estou construindo (repos privados, posso mostrar sob demanda):**
+<!-- TODO: print do Posta -> docs/posta.png -->
 
-- **Planno** — app de planejamento *offline-first*: você continua trabalhando sem conexão e as mudanças sincronizam em segundo plano, com resolução de conflitos e papéis por workspace. Produto meu.
-- **Posta** — SaaS para times e agências de social media: painel da equipe (kanban, calendário, briefings) e uma área do cliente separada só para aprovações.
-- **Hospeda** — plataforma de reservas/aluguel de temporada: imóveis, comodidades, disponibilidade e reservas.
+<br>
 
-**Dá pra abrir agora:** [Tasks Manager](https://tasks-manager-artefact.ascorp.app), além dos projetos do LEO Clube listados acima.
+**Hospeda** — plataforma de reservas / aluguel de temporada: imóveis, comodidades, disponibilidade e reservas, com área administrativa.
+Stack: React, TanStack Router, Drizzle ORM, PostgreSQL.
 
-Aberto a vagas fullstack e freelas. Falo português e inglês.
+<!-- TODO: print do Hospeda -> docs/hospeda.png -->
 
-</details>
+<h3>Projetos no ar</h3>
+
+**Tasks Manager** — app para criar, organizar e acompanhar tarefas (Next.js 16, React 19).
+https://tasks-manager-artefact.ascorp.app
+<br>
+https://github.com/alessonsouza/tasks-manager-artefact
+
+<br>
+
+**Portal LEO Ômega** — portal administrativo de um clube de voluntariado (repositório privado).
+https://portalomegapzo.ascorp.app
+
+<br>
+
+**Relatório de Trimestre — LEO Ômega** — relatório de página única com narrativa animada (React 19, Vite, Framer Motion).
+https://report-lionistic-instruction-4.ascorp.app
+<br>
+https://github.com/alessonsouza/report-lionistic-instruction-4
+
+<br>
+
+**Mural LEO** — mural digital coletivo: os membros postam fotos e mensagens.
+https://muralomegapzo.ascorp.app
+<br>
+https://github.com/alessonsouza/mural-leo
+
+<br>
+
+**Passeios** — site de passeios e excursões com inscrição direto na página.
+https://passeiosconfepzo.ascorp.app
+<br>
+https://github.com/alessonsouza/passeios-leo
+
+<br>
+
+**SOMA Arquitetura** — site de um escritório de arquitetura, com portfólio e páginas de detalhe dos projetos.
+https://somaarquitetura.ascorp.app
+<br>
+https://github.com/alessonsouza/soma-arquitetura
+
+<br>
+
+**Fisio Pélvica** — site institucional de uma clínica de fisioterapia.
+https://fisiopelvica.ascorp.app
+<br>
+https://github.com/alessonsouza/fisio-pelvica
+
+<h3>Contato</h3>
+
+- LinkedIn: https://www.linkedin.com/in/alesson-souza
+- Email: alessonhsouza@gmail.com
+
+<br>
+
+<sub>Fullstack developer from Brazil — building SaaS products with TypeScript, React and Node/Bun. Open to work, in PT and EN.</sub>
