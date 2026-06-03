@@ -1,19 +1,19 @@
 <div align="right">
 
-🇧🇷 **Português** | [🇺🇸 English](https://github.com/alessonsouza/alessonsouza/blob/main/README.en.md)
+[🇧🇷 Português](https://github.com/alessonsouza/alessonsouza/blob/main/README.pt.md) | 🇺🇸 **English**
 
 </div>
 
-## Olá! Eu sou o Alesson Souza 👋
+## Hi! I'm Alesson Souza 👋
 
-Seja bem-vindo(a) ao meu perfil!
+Welcome to my profile!
 
-- 🔭 Sou **desenvolvedor fullstack**, trabalho do banco de dados à interface no ar.
-- 🚀 Construo **produtos SaaS** - pego problemas reais e transformo em software que as pessoas usam.
-- 🧰 Meu dia a dia é em **TypeScript** com **React** e **Node/Bun**.
-- 💬 Falo **português** e **inglês**. Aberto a vagas fullstack e freelas.
+- 🔭 I'm a **fullstack developer**, working from the database to the live interface.
+- 🚀 I build **SaaS products** - I take real problems and turn them into software people actually use.
+- 🧰 My day-to-day is **TypeScript** with **React** and **Node/Bun**.
+- 💬 I speak **Portuguese** and **English**. Open to fullstack roles and freelance work.
 
-### Tecnologias
+### Technologies
 
 <div style="display: inline_block"><br>
   <img align="center" alt="TypeScript" height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
@@ -28,77 +28,77 @@ Seja bem-vindo(a) ao meu perfil!
   <img align="center" alt="Git" height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div><br><br>
 
-<h3>Produtos que estou construindo</h3>
+<h3>Products I'm building</h3>
 
-Estes são repositórios privados - posso mostrar o código ou fazer uma demo sob demanda.
+These are private repositories - I can walk through the code or set up a demo on request.
 
-**Planno** - app de planejamento *offline-first*: você continua trabalhando sem conexão e as mudanças sincronizam em segundo plano, com resolução de conflitos e papéis por workspace. É um produto meu.
+**Planno** - an *offline-first* planning app: you keep working without a connection and changes sync in the background, with conflict resolution and per-workspace roles. It's my own product.
 Stack: Bun, React 19, TanStack Router, Elysia, Drizzle ORM, PostgreSQL, Better Auth, PowerSync.
 
-<!-- TODO: print do Planno -> docs/planno.png -->
+<!-- TODO: Planno screenshot -> docs/planno.png -->
 
 <br>
 
-**Posta** - SaaS para times e agências de social media. Une num só lugar o que normalmente fica espalhado entre Notion, ClickUp e WhatsApp: um painel da equipe (kanban, calendário, briefings) e uma área separada para o cliente aprovar conteúdos.
+**Posta** - a SaaS for social media teams and agencies. It brings into one place what's usually scattered across Notion, ClickUp and WhatsApp: a team workspace (kanban, calendar, briefings) and a separate area for clients to approve content.
 Stack: Bun, TanStack Start, React 19, Elysia + Eden Treaty, Drizzle ORM, PostgreSQL.
 
-<!-- TODO: print do Posta -> docs/posta.png -->
+<!-- TODO: Posta screenshot -> docs/posta.png -->
 
 <br>
 
-**Hospeda** - plataforma de reservas / aluguel de temporada: imóveis, comodidades, disponibilidade e reservas, com área administrativa.
+**Hospeda** - a booking / vacation-rental platform: properties, amenities, availability and reservations, with an admin area.
 Stack: React, TanStack Router, Drizzle ORM, PostgreSQL.
 
-<!-- TODO: print do Hospeda -> docs/hospeda.png -->
+<!-- TODO: Hospeda screenshot -> docs/hospeda.png -->
 
-<h3>Projetos no ar</h3>
+<h3>Live projects</h3>
 
-**Tasks Manager** - app para criar, organizar e acompanhar tarefas (Next.js 16, React 19).
+**Tasks Manager** - app to create, organize and track tasks (Next.js 16, React 19).
 https://tasks-manager-artefact.ascorp.app
 <br>
 https://github.com/alessonsouza/tasks-manager-artefact
 
 <br>
 
-**Portal LEO Ômega** - portal administrativo de um clube de voluntariado (repositório privado).
+**Portal LEO Ômega** - admin portal for a volunteering club (private repository).
 https://portalomegapzo.ascorp.app
 
 <br>
 
-**Relatório de Trimestre - LEO Ômega** - relatório de página única com narrativa animada (React 19, Vite, Framer Motion).
+**Quarterly Report - LEO Ômega** - single-page report with animated storytelling (React 19, Vite, Framer Motion).
 https://report-lionistic-instruction-4.ascorp.app
 <br>
 https://github.com/alessonsouza/report-lionistic-instruction-4
 
 <br>
 
-**Mural LEO** - mural digital coletivo: os membros postam fotos e mensagens.
+**Mural LEO** - collaborative digital wall: members post photos and messages.
 https://muralomegapzo.ascorp.app
 <br>
 https://github.com/alessonsouza/mural-leo
 
 <br>
 
-**Passeios** - site de passeios e excursões com inscrição direto na página.
+**Passeios (Trips)** - trips and excursions site with sign-up right on the page.
 https://passeiosconfepzo.ascorp.app
 <br>
 https://github.com/alessonsouza/passeios-leo
 
 <br>
 
-**SOMA Arquitetura** - site de um escritório de arquitetura, com portfólio e páginas de detalhe dos projetos.
+**SOMA Arquitetura** - website for an architecture studio, with a portfolio and project detail pages.
 https://somaarquitetura.ascorp.app
 <br>
 https://github.com/alessonsouza/soma-arquitetura
 
 <br>
 
-**Fisio Pélvica** - site institucional de uma clínica de fisioterapia.
+**Fisio Pélvica** - institutional website for a physiotherapy clinic.
 https://fisiopelvica.ascorp.app
 <br>
 https://github.com/alessonsouza/fisio-pelvica
 
-<h3>Contato</h3>
+<h3>Contact</h3>
 
 - LinkedIn: https://www.linkedin.com/in/alesson-souza
 - Email: alessonhsouza@gmail.com
@@ -106,5 +106,3 @@ https://github.com/alessonsouza/fisio-pelvica
 <br>
 
 <sub>Fullstack developer from Brazil - building SaaS products with TypeScript, React and Node/Bun. Open to work, in PT and EN.</sub>
-
-<!-- perfil -->
