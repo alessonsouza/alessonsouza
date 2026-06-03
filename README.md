@@ -100,3 +100,5 @@ https://github.com/alessonsouza/fisio-pelvica
 <br>
 
 <sub>Fullstack developer from Brazil — building SaaS products with TypeScript, React and Node/Bun. Open to work, in PT and EN.</sub>
+
+<!-- perfil -->
