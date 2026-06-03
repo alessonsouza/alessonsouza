@@ -12,7 +12,7 @@ Seja bem-vindo(a) ao meu perfil!
 - Construo **produtos SaaS** - pego problemas reais e transformo em software que as pessoas usam.
 - Meu dia a dia é em **TypeScript** com **React** e **Node/Bun**.
 - Falo **português** e **inglês**. Aberto a vagas fullstack e freelas.
-- Uso o **Claude** (programação assistida por IA) há quase um ano.
+- Uso o **Claude** há quase um ano.
 
 ### Tecnologias
 
